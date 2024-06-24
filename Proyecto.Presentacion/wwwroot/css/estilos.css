@@ -1,0 +1,132 @@
+body {
+    width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 12px;
+}
+
+#banner {
+    width: 1370px;
+}
+
+h2, h4, h6 {
+    font-family: Tahoma;
+    text-align: center;
+}
+
+.menu {
+    position: absolute;
+    top: 0px;
+    width: 1370px;
+    height: 5%;
+    display: flex;
+    color: white;
+    background-color: darkcyan;
+}
+
+    .menu ul {
+        display: flex;
+        margin: auto;
+    }
+    .menu li {
+        list-style: none;
+        padding: 10px 20px;
+    }
+
+        .menu li:hover {
+            background-color: darkblue;
+            cursor: pointer;
+        }
+
+    .menu ul li ul {
+        flex-direction: column;
+        position: absolute;
+        background-color: darkblue;
+        margin-top: 15px;
+        transform: rotateY(240deg) scale(0);
+        transition: all 1s;
+    }
+
+    .menu ul li:hover > ul {
+        transform: rotateY(0deg) scale(1);
+        transition: all 1s;
+        background-color: darkolivegreen;
+    }
+/*Estilos para los enlaces*/
+a {
+    color: blue;
+}
+    /*Estilos para los enlaces*/
+    a:link, a:hover {
+        text-decoration: none;
+        color: blue;
+    }
+/*Estilos para la tabla*/
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin: 10px;
+}
+/*Pïe de Pagina*/
+footer {
+    background-color: darkcyan;
+    position: fixed;
+    padding: 0px;
+    bottom: 0px;
+    width: 1370px;
+    height: 25px;
+    color: white;
+}
+/*Logo Central*/
+#logo {
+    width: 180px;
+    height: 160px;
+    margin: 5px;
+}
+
+#columna {
+    margin: 10px;
+    float: left;
+    width: 31%;
+    padding: 25px;
+    text-align: center;
+    border: solid 1px;
+    font-size: 16px;
+}
+/*ARTICULO*/
+.bloque {
+    width: 32%;
+    height: 250px;
+    float: left;
+    margin: 5px;
+    border: 1px dotted;
+}
+
+.imgArt {
+    width: 40%;
+    height: 170px;
+    float: left;
+    margin: 10px 5% 10px 5%;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.marco {
+    width: 50%;
+    height: 200px;
+    float: left;
+}
+
+.imgMarco {
+    width: 60%;
+    height: 200px;
+    float: left;
+    margin: 10px 20% 10px 20%;
+    padding: 15px;
+    border: 1px solid;
+}
+
+#monto {
+    font-family: 'Trebuchet MS';
+    font-size: 24px;
+}

@@ -1,0 +1,62 @@
+﻿@model IEnumerable<FRONT_web_personal_saving.Models.Articulo>
+
+@{
+    ViewData["Title"] = "Agregar";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+<h1>Agregar</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.codigo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.precio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.stockActual)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.stockMinimo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.unidad)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.codigo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.precio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.stockActual)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.stockMinimo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.unidad)
+            </td>
+     
+        </tr>
+}
+    </tbody>
+</table>

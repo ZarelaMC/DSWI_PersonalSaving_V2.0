@@ -1,7 +1,64 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal\\dswi_personalsaving_v2.0\\proyecto.presentacion\\views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal\\dswi_personalsaving_v2.0\\proyecto.presentacion\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal\\dswi_personalsaving_v2.0\\proyecto.presentacion\\views\\tienda\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\tienda\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal\\dswi_personalsaving_v2.0\\proyecto.presentacion\\views\\tienda\\carritocompras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\tienda\\carritocompras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal\\dswi_personalsaving_v2.0\\proyecto.presentacion\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal\\dswi_personalsaving_v2.0\\proyecto.presentacion\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal\\dswi_personalsaving_v2.0\\proyecto.presentacion\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal\\dswi_personalsaving_v2.0\\proyecto.presentacion\\views\\tienda\\pago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\tienda\\pago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal\\dswi_personalsaving_v2.0\\proyecto.presentacion\\views\\tienda\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\tienda\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal\\dswi_personalsaving_v2.0\\proyecto.presentacion\\views\\tienda\\comprar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\tienda\\comprar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal\\dswi_personalsaving_v2.0\\proyecto.presentacion\\views\\tienda\\select.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\tienda\\select.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal\\dswi_personalsaving_v2.0\\proyecto.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal\\dswi_personalsaving_v2.0\\proyecto.presentacion\\views\\ingreso\\listadoingresos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\ingreso\\listadoingresos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal\\dswi_personalsaving_v2.0\\api_personal_saving\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +66,186 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Agregar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Views\\Tienda\\Agregar.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Tienda\\Agregar.cshtml",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Views\\Tienda\\Agregar.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Tienda\\Agregar.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:06:05.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pago.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Views\\Tienda\\Pago.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Tienda\\Pago.cshtml",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Views\\Tienda\\Pago.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Tienda\\Pago.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:02:41.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Views\\Tienda\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Tienda\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Views\\Tienda\\Eliminar.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Tienda\\Eliminar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:02:22.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TiendaController.cs",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Controllers\\TiendaController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\TiendaController.cs",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Controllers\\TiendaController.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\TiendaController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwEYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:46:49.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Views\\Tienda\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Tienda\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Views\\Tienda\\Index.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Tienda\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:58:17.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "carritoCompras.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Views\\Tienda\\carritoCompras.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Tienda\\carritoCompras.cshtml",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Views\\Tienda\\carritoCompras.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Tienda\\carritoCompras.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:00:56.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutPrincipal.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:59:53.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Models\\Item.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Models\\Item.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:05:14.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Models\\Articulo.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Models\\Articulo.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Models\\Articulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:05:23.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Comprar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Views\\Tienda\\Comprar.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Tienda\\Comprar.cshtml",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Views\\Tienda\\Comprar.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Tienda\\Comprar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:02:02.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Select.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Views\\Tienda\\Select.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Tienda\\Select.cshtml",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Views\\Tienda\\Select.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Tienda\\Select.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:01:24.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\appsettings.json",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\appsettings.json",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\appsettings.json",
+              "RelativeToolTip": "Proyecto.Presentacion\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T18:32:50.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "listadoIngresos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Views\\Ingreso\\listadoIngresos.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Ingreso\\listadoIngresos.cshtml",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Proyecto.Presentacion\\Views\\Ingreso\\listadoIngresos.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Ingreso\\listadoIngresos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T18:34:54.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Api_Personal_Saving\\appsettings.json",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\appsettings.json",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL\\DSWI_PersonalSaving_V2.0\\Api_Personal_Saving\\appsettings.json",
+              "RelativeToolTip": "Api_Personal_Saving\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T18:29:27.442Z"
             }
           ]
         }
