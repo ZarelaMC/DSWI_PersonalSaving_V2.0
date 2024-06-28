@@ -2468,24 +2468,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\italo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
+      "projectUniqueName": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
       "projectName": "BACK_Api_Personal_Saving",
-      "projectPath": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Api_Personal_Saving\\obj\\",
+      "projectPath": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
+      "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Api_Personal_Saving\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2493,6 +2488,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
