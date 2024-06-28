@@ -1,42 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\",
+  "WorkspaceRootPath": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_actual\\proyecto.presentacion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_actual\\proyecto.presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\italo\\downloads\\proyecto_modificado_finanzas\\proyecto.presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_actual\\proyecto.presentacion\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_actual\\proyecto.presentacion\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_actual\\proyecto.presentacion\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_actual\\proyecto.presentacion\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_actual\\proyecto.presentacion\\models\\bdpersonalsavingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\models\\bdpersonalsavingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_actual\\proyecto.presentacion\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_actual\\proyecto.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\italo\\downloads\\proyecto_modificado_finanzas\\proyecto.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\italo\\downloads\\proyecto_modificado_finanzas\\proyecto.presentacion\\views\\egreso\\modificaregreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\egreso\\modificaregreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\italo\\downloads\\proyecto_modificado_finanzas\\proyecto.presentacion\\controllers\\egresocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\controllers\\egresocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\italo\\downloads\\proyecto_modificado_finanzas\\proyecto.presentacion\\views\\egreso\\nuevoegreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\egreso\\nuevoegreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\italo\\downloads\\proyecto_modificado_finanzas\\proyecto.presentacion\\views\\egreso\\listaregresos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\egreso\\listaregresos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\italo\\downloads\\proyecto_modificado_finanzas\\proyecto.presentacion\\models\\egresomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\models\\egresomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\italo\\downloads\\proyecto_modificado_finanzas\\proyecto.presentacion\\models\\egresomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\models\\egresomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\italo\\downloads\\proyecto_modificado_finanzas\\api_personal_saving\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\italo\\downloads\\proyecto_modificado_finanzas\\api_personal_saving\\repositorio\\interfaces\\iegresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\repositorio\\interfaces\\iegresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\italo\\downloads\\proyecto_modificado_finanzas\\api_personal_saving\\repositorio\\dao\\egresosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\repositorio\\dao\\egresosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\italo\\downloads\\proyecto_modificado_finanzas\\api_personal_saving\\models\\egresoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\models\\egresoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\italo\\downloads\\proyecto_modificado_finanzas\\api_personal_saving\\models\\egresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\models\\egresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\italo\\downloads\\proyecto_modificado_finanzas\\api_personal_saving\\controllers\\egresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\controllers\\egresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,132 +66,201 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Proyecto.Presentacion\\appsettings.json",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\appsettings.json",
+              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Proyecto.Presentacion\\appsettings.json",
+              "RelativeToolTip": "Proyecto.Presentacion\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T04:40:52.553Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T18:53:47.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Proyecto.Presentacion\\Program.cs",
               "RelativeDocumentMoniker": "Proyecto.Presentacion\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Proyecto.Presentacion\\Program.cs",
               "RelativeToolTip": "Proyecto.Presentacion\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA0AAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T18:39:33.616Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Registrarse.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Views\\Inicio\\Registrarse.cshtml",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Inicio\\Registrarse.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Views\\Inicio\\Registrarse.cshtml",
-              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Inicio\\Registrarse.cshtml",
-              "ViewState": "AQIAAJYAAAAAAAAAAAAkwLMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T18:41:23.048Z",
+              "WhenOpened": "2024-06-28T04:40:48.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "InicioController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Controllers\\InicioController.cs",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\InicioController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Controllers\\InicioController.cs",
-              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\InicioController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAwwC8AAAAjAAAA",
+              "Title": "ModificarEgreso.cshtml",
+              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Proyecto.Presentacion\\Views\\Egreso\\ModificarEgreso.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Egreso\\ModificarEgreso.cshtml",
+              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Proyecto.Presentacion\\Views\\Egreso\\ModificarEgreso.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Egreso\\ModificarEgreso.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T04:40:22.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NuevoEgreso.cshtml",
+              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Proyecto.Presentacion\\Views\\Egreso\\NuevoEgreso.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Egreso\\NuevoEgreso.cshtml",
+              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Proyecto.Presentacion\\Views\\Egreso\\NuevoEgreso.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Egreso\\NuevoEgreso.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAAAYwEAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T04:39:36.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "listarEgresos.cshtml",
+              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Proyecto.Presentacion\\Views\\Egreso\\listarEgresos.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Egreso\\listarEgresos.cshtml",
+              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Proyecto.Presentacion\\Views\\Egreso\\listarEgresos.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Egreso\\listarEgresos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T04:38:18.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EgresoController.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Proyecto.Presentacion\\Controllers\\EgresoController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\EgresoController.cs",
+              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Proyecto.Presentacion\\Controllers\\EgresoController.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\EgresoController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwEsAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T18:40:47.576Z",
+              "WhenOpened": "2024-06-28T04:34:16.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BdPersonalSavingContext.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Models\\BdPersonalSavingContext.cs",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\BdPersonalSavingContext.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Models\\BdPersonalSavingContext.cs",
-              "RelativeToolTip": "Proyecto.Presentacion\\Models\\BdPersonalSavingContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Title": "EgresoModelO.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Proyecto.Presentacion\\Models\\EgresoModelO.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\EgresoModelO.cs",
+              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Proyecto.Presentacion\\Models\\EgresoModelO.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Models\\EgresoModelO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T18:40:44.361Z",
+              "WhenOpened": "2024-06-28T04:33:27.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Models\\Usuario.cs",
-              "RelativeToolTip": "Proyecto.Presentacion\\Models\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Title": "EgresoModel.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Proyecto.Presentacion\\Models\\EgresoModel.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\EgresoModel.cs",
+              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Proyecto.Presentacion\\Models\\EgresoModel.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Models\\EgresoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T18:40:39.882Z",
+              "WhenOpened": "2024-06-28T04:33:11.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\appsettings.json",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\appsettings.json",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\appsettings.json",
-              "RelativeToolTip": "Proyecto.Presentacion\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Api_Personal_Saving\\appsettings.json",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\appsettings.json",
+              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Api_Personal_Saving\\appsettings.json",
+              "RelativeToolTip": "Api_Personal_Saving\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-24T18:39:33.193Z",
+              "WhenOpened": "2024-06-28T04:31:15.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_LayoutPrincipal.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
-              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFsAAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T18:54:41.872Z",
+              "DocumentIndex": 9,
+              "Title": "IEgresos.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Api_Personal_Saving\\Repositorio\\Interfaces\\IEgresos.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Repositorio\\Interfaces\\IEgresos.cs",
+              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Api_Personal_Saving\\Repositorio\\Interfaces\\IEgresos.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Repositorio\\Interfaces\\IEgresos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:30:55.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IniciarSesion.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Views\\Inicio\\IniciarSesion.cshtml",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Inicio\\IniciarSesion.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Views\\Inicio\\IniciarSesion.cshtml",
-              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Inicio\\IniciarSesion.cshtml",
-              "ViewState": "AQIAAGMAAAAAAAAAAAAAAHcAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T18:42:08.029Z",
+              "DocumentIndex": 10,
+              "Title": "EgresosDAO.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Api_Personal_Saving\\Repositorio\\DAO\\EgresosDAO.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Repositorio\\DAO\\EgresosDAO.cs",
+              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Api_Personal_Saving\\Repositorio\\DAO\\EgresosDAO.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Repositorio\\DAO\\EgresosDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:30:07.919Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EgresosO.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Api_Personal_Saving\\Models\\EgresosO.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Models\\EgresosO.cs",
+              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Api_Personal_Saving\\Models\\EgresosO.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Models\\EgresosO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:29:47.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Egresos.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Api_Personal_Saving\\Models\\Egresos.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Models\\Egresos.cs",
+              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Api_Personal_Saving\\Models\\Egresos.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Models\\Egresos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:29:25.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EgresosController.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Api_Personal_Saving\\Controllers\\EgresosController.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Controllers\\EgresosController.cs",
+              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Modificado_Finanzas\\Api_Personal_Saving\\Controllers\\EgresosController.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Controllers\\EgresosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:28:00.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

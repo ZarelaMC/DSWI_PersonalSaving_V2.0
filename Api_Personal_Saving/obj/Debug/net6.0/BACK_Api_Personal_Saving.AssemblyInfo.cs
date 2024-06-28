@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BACK_Api_Personal_Saving")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d99cc728a7da8afd45e2c5ed66a91045c315cea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb2ec10a462eeee2256efff6d75867a6084fb3ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("BACK_Api_Personal_Saving")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BACK_Api_Personal_Saving")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
